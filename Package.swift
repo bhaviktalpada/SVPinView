@@ -20,7 +20,11 @@ let package = Package(
         .target(
             name: "SVPinView",
             dependencies: [],
-            resources: [.process("Resources")]),
+            resources: [
+                .process("Resources/SVPinView.xib"),
+                .process("Resources/SVPinCell.xib")
+            ]
+        ),
         .testTarget(
             name: "SVPinViewTests",
             dependencies: ["SVPinView"]),
