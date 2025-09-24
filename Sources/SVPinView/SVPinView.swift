@@ -2,8 +2,8 @@
 //  SVPinView.swift
 //  SVPinView
 //
-//  Created by Srinivas Vemuri on 10/10/17.
-//  Copyright © 2017 Xornorik. All rights reserved.
+//  Created by MobiTech Solutions on 20/09/25.
+//  Copyright © 2025 MobiTech Solutions. All rights reserved.
 //
 
 import UIKit
